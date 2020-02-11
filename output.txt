@@ -1,0 +1,9 @@
+[['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click img', 'click img', 'click Save', 'click Search'], ['load /', 'click WHERE', 'click option', 
+'click button', 'click button', 'click GUESTS', 'click search', 'click img', 'click img', 'click Save', 'click Search'], ['load /', 'click Show (2000+)'], ['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click img', 'click img', 'click Save', 'click Search', 'click presentation', 'click combobox', 'click option', 'click combobox', 'click option', 'click combobox', 'click option', 'click presentation', 'click Home'], ['load /', 'click Douro Villa with swimming pool, Penafiel, Portugal', 'click Villa San Gennariello B&B', 'click Show (2000+)']]
+
+
+[(5, ['load /']), (3, ['load /', 'click WHERE', 'click option']), (3, ['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click img', 'click img', 'click Save', 'click Search']), (2, ['load /', 'click Show (2000+)'])]
+
+
+[(5, ['load /']), (3, ['load /', 'click WHERE', 'click option']), (3, ['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click img', 'click img', 'click Save', 'click Search']), (2, ['load /', 'click Show (2000+)']), (1, ['load /', 'click Douro Villa with swimming pool, Penafiel, Portugal', 'click Villa San Gennariello B&B', 'click Show (2000+)']), (1, ['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click img', 'click img', 'click Save', 'click Search', 'click presentation', 'click 
+combobox', 'click option', 'click combobox', 'click option', 'click combobox', 'click option', 'click presentation', 'click Home']), (1, ['load /', 'click WHERE', 'click option', 'click button', 'click button', 'click GUESTS', 'click search', 'click img', 'click img', 'click Save', 'click Search'])]

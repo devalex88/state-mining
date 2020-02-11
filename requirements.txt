@@ -1,0 +1,2 @@
+prefixspan==0.5.2
+psycopg2==2.8.3
